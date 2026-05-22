@@ -134,3 +134,6 @@ Top LLMs
 - [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
 
 - [AI Models Catalog](https://github.com/i-need-token/ai-models) — Structured YAML catalog of 4,587 AI models across 95 providers with pricing, context windows, and capabilities
+
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog at https://i-need-token.github.io/ai-models/
+
